@@ -1,0 +1,12 @@
+{
+    "name": "rc-progress",
+    "description": "progress ui component for react",
+    "repos": "https://github.com/react-component/progress.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "object-assign": "4.x"
+    },
+    "version": "1.0.4"
+}
